@@ -1,0 +1,27 @@
+{
+  "name": "career-presentation",
+  "version": "1.0.0",
+  "description": "A presentation for students",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "presentation "
+  },
+  "repository": {
+    "type": "git",
+    "url": "career-presentation"
+  },
+  "keywords": [
+    "presentation"
+  ],
+  "author": "Jeff",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^2.3.1",
+    "gulp-sass-glob": "^1.0.6",
+    "gulp-webserver": "^0.9.1"
+  }
+}

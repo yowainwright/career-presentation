@@ -1,0 +1,24 @@
+{
+  "name": "career-presentation",
+  "authors": [
+    "Jeff Wainwright <jjwainwright2@gmail.com>"
+  ],
+  "description": "A presentation for students",
+  "main": "index.html",
+  "keywords": [
+    "presentation"
+  ],
+  "license": "MIT",
+  "homepage": "jeffry.in",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "reveal.js": "^3.3.0",
+    "jquery": "^2.2.3"
+  }
+}
