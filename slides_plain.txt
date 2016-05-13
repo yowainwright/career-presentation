@@ -1,0 +1,137 @@
+// Slide 1
+
+Jeff Wainwright
+
+Front End Engineer @ Dollar Shave Club
+(Use the products because they ARE GREAT!)
+
+What's a Front End Engineer?
+
+Using data, Front End Engineer's render webpages & apps 
+
+content awesomeness (img)
+
+This presentation will briefly touch 2 things:
+
+The role of a front end engineer in a modern content team.
+The role of content in a modern world.
+
+
+// Slide 2
+
+How does a Front End Developer's skill apply to media?
+
+Engineers work with content teams to help produce captivating content (img)
+Engineers work with content teams to help produce captivating content
+
+The image above diagrams of most of the roles involved in content products for 2016. 
+
+Product is placed in the middle because it negotiates workflow & new products for the different teams.
+
+User Experience  work on what a content's customer does from interactions to analytics. They are also important when negotiating a site's information architecture.
+
+Design develops the site’s identity & look as well as negotiate art direction with content editors & writers.
+
+
+Backend development focuses on the rendering data objects from the content editor input level
+
+Frontend development starts when the data is massaged from data objects to the rendering of a page.
+
+Writer is a loose term as content can be imagery, video or word articles
+
+Content Editors deal with content insertion into the product.
+
+Not pictured are sales/ad & core analytics people & both are important. Sales & ad people negotiate ad deals & affiliate content deals. Analytics people record & document the product. 
+
+
+// Slide 3
+
+The Revenue Challenge
+
+Ad Revenue (img)
+Revenue has gone down in most areas like print & TV & it hasn't risen online.
+Source: Nieman Lab http://www.niemanlab.org/2014/06/are-online-ads-more-valuable-than-print-ads/
+
+Front End Engineers are tasked with working with other teams to render captivating content & business oriented products.
+
+Captivating content such as videos, collections, streams, galleries, quizzes & articles must be rendered in an exciting yet optimized manner.
+
+Besides content, Front End engineers support testing, analytics, ad & affiliate goals.
+
+
+// Slide 4
+
+Relevancy, content in a free era
+
+Content is largely viewed as a free experience 
+
+Customers expect great products for free how they want it.
+
+Businesses require great content to drive customer awareness.
+
+Customers enjoy marketing but on an increasingly invisible level.
+
+Front End Engineers are tasks with creating the happy medium or that great product & business goals.
+
+
+// Slide 5
+
+Why this is exciting?
+
+Content is more accessible & attainable than ever before
+
+Customers can consume, share & spin off good content easily.
+Content must be unique & well done to be relevant. 
+
+
+// Slide 6
+
+
+The Business need
+
+Companies, like DSC & Buzzfeed, can change the game with great content.
+
+
+// Slide 7
+
+What does this mean for the future?
+
+For front end engineers
+
+Front End engineers are currently in demand, however it is an extremely fast-pasted industry. What I learned as innovation last year in a conference has a shelf life of about 1 year at its current pace.
+
+With code camps & quick fix coding schools, the industry is saturated with junior engineers.
+
+The role should be changing over the next years to no longer focus on visibility but most likely logical solutions with the information architecture. 
+
+For content teams
+
+It is an exciting & innovative climate of constantly changing ways to deliver content.
+
+Most innovations don't involve a business price tag so businesses are expected to incorporate these tech innovations by users but don't get an obvious return on investment. 
+
+This makes the financial aspects of content tumultuous.
+
+// Slide 8
+
+
+For a younger generation
+
+Younger generations are consuming products beyond they were often designed for. They're hacking the system so to speak. With apps like Snapchat & Messenger - the tech community is often surprised by the use of the product. For those seeking a career in content, it will be innovative & most likely involve currently unthought-of of ways to captivate an audience ... or we can just keep creating memes. 
+
+~Thanks
+
+Jeff Wainwright
+
+
+
+
+
+
+
+
+
+
+
+
+
