@@ -1,8 +1,8 @@
-// Slide 1
+ Slide 1
 
 Jeff Wainwright
 
-Front End Engineer @ Dollar Shave Club
+Front End Engineer for Dollar Shave Club
 (Use the products because they ARE GREAT!)
 
 What's a Front End Engineer?
@@ -17,7 +17,7 @@ The role of a front end engineer in a modern content team.
 The role of content in a modern world.
 
 
-// Slide 2
+Slide 2
 
 How does a Front End Developer's skill apply to media?
 
@@ -44,7 +44,7 @@ Content Editors deal with content insertion into the product.
 Not pictured are sales/ad & core analytics people & both are important. Sales & ad people negotiate ad deals & affiliate content deals. Analytics people record & document the product. 
 
 
-// Slide 3
+Slide 3
 
 The Revenue Challenge
 
@@ -59,7 +59,7 @@ Captivating content such as videos, collections, streams, galleries, quizzes & a
 Besides content, Front End engineers support testing, analytics, ad & affiliate goals.
 
 
-// Slide 4
+Slide 4
 
 Relevancy, content in a free era
 
@@ -74,7 +74,7 @@ Customers enjoy marketing but on an increasingly invisible level.
 Front End Engineers are tasks with creating the happy medium or that great product & business goals.
 
 
-// Slide 5
+Slide 5
 
 Why this is exciting?
 
@@ -84,15 +84,14 @@ Customers can consume, share & spin off good content easily.
 Content must be unique & well done to be relevant. 
 
 
-// Slide 6
-
+Slide 6
 
 The Business need
 
 Companies, like DSC & Buzzfeed, can change the game with great content.
 
 
-// Slide 7
+Slide 7
 
 What does this mean for the future?
 
@@ -112,17 +111,14 @@ Most innovations don't involve a business price tag so businesses are expected t
 
 This makes the financial aspects of content tumultuous.
 
-// Slide 8
 
+Slide 8
 
 For a younger generation
 
 Younger generations are consuming products beyond they were often designed for. They're hacking the system so to speak. With apps like Snapchat & Messenger - the tech community is often surprised by the use of the product. For those seeking a career in content, it will be innovative & most likely involve currently unthought-of of ways to captivate an audience ... or we can just keep creating memes. 
 
 ~Thanks
-
-Jeff Wainwright
-
 
 
 
