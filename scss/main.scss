@@ -1,9 +1,5 @@
 @charset "utf-8";
-@import
-	"variables",
-	"mixins",
-  "base"
-;
+@import "base";
 
 // plugins
 @import "bower_components/reveal.js/css/theme/template/mixins.scss";
