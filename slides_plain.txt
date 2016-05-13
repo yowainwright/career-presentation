@@ -1,107 +1,97 @@
- Slide 1
+// Slide 1
 
 Jeff Wainwright
 
 Front End Engineer for Dollar Shave Club
-(Use the products because they ARE GREAT!)
+(Use Dollar Shave Club products because they ARE GREAT!)
 
 What's a Front End Engineer?
 
-Using data, Front End Engineer's render webpages & apps 
+Using data, Front End Engineers render webpages & apps 
 
-content awesomeness (img)
+This presentation will briefly discuss 2 things:
 
-This presentation will briefly touch 2 things:
-
-The role of a front end engineer in a modern content team.
+The role of a <a href="http://f2em.com/" target="_blank">front end engineer</a> in a modern content team.
 The role of content in a modern world.
 
 
-Slide 2
+// Slide 2
 
-How does a Front End Developer's skill apply to media?
+How does a Front End Developer's skill apply to media (2016)?
 
-Engineers work with content teams to help produce captivating content (img)
-Engineers work with content teams to help produce captivating content
+Engineers work with content teams to produce content.
 
-The image above diagrams of most of the roles involved in content products for 2016. 
+The Product Team is placed in the middle because they negotiate workflow & products for the teams.
+The User Experience Team works on what users do. They work with interactions, analytics &  information architecture.
+The Design Team develops brand identity & art direction.
+The Backend Development Team focuses on creating & rendering data.
+The Frontend Development renders the data.
+Writers create content.
 
-Product is placed in the middle because it negotiates workflow & new products for the different teams.
+Content Editors insert content.
 
-User Experience  work on what a content's customer does from interactions to analytics. They are also important when negotiating a site's information architecture.
-
-Design develops the site’s identity & look as well as negotiate art direction with content editors & writers.
-
-
-Backend development focuses on the rendering data objects from the content editor input level
-
-Frontend development starts when the data is massaged from data objects to the rendering of a page.
-
-Writer is a loose term as content can be imagery, video or word articles
-
-Content Editors deal with content insertion into the product.
-
-Not pictured are sales/ad & core analytics people & both are important. Sales & ad people negotiate ad deals & affiliate content deals. Analytics people record & document the product. 
+Not pictured: The Sales/ad & Analytics Team; ThE Sales Team negotiate revenue making deals. The Analytics Team records information.
 
 
-Slide 3
+// Slide 3
 
 The Revenue Challenge
 
-Ad Revenue (img)
-Revenue has gone down in most areas like print & TV & it hasn't risen online.
-Source: Nieman Lab http://www.niemanlab.org/2014/06/are-online-ads-more-valuable-than-print-ads/
+Content revenue has gone down in all areas.
 
-Front End Engineers are tasked with working with other teams to render captivating content & business oriented products.
+Front End Engineers work to render captivating content & business oriented products.
 
 Captivating content such as videos, collections, streams, galleries, quizzes & articles must be rendered in an exciting yet optimized manner.
 
-Besides content, Front End engineers support testing, analytics, ad & affiliate goals.
+Besides content, Front End engineers support testing, analytics, ads & affiliate goals.
 
 
-Slide 4
+// Slide 4
 
-Relevancy, content in a free era
+Relevancy: Content in a free era
 
-Content is largely viewed as a free experience 
+Content is viewed as free
 
-Customers expect great products for free how they want it.
-
-Businesses require great content to drive customer awareness.
-
+Customers expect great products for free.
+Customers will leave if they're confused.
+Great content to drives brand awareness.
 Customers enjoy marketing but on an increasingly invisible level.
 
-Front End Engineers are tasks with creating the happy medium or that great product & business goals.
+Front End Engineers create balance between content & business goals.
 
 
-Slide 5
+// Slide 5
 
-Why this is exciting?
+Why this is this era exciting for content companies?
 
 Content is more accessible & attainable than ever before
 
-Customers can consume, share & spin off good content easily.
-Content must be unique & well done to be relevant. 
+Customers can share & create their own content easily so
+Content companies must create unique & well done content to be relevant. 
 
 
-Slide 6
+// Slide 6
 
 The Business need
 
-Companies, like DSC & Buzzfeed, can change the game with great content.
+Companies, like DSC & <a href="http://buzzfeed.com" target="_blank">Buzzfeed</a>, can change the game with great content.
 
 
-Slide 7
+// Slide 7
 
 What does this mean for the future?
 
 For front end engineers
 
-Front End engineers are currently in demand, however it is an extremely fast-pasted industry. What I learned as innovation last year in a conference has a shelf life of about 1 year at its current pace.
+Front End Engineers are currently in demand. It is fast-pasted industry. 
+You have to keep learning. 
+You have to opportunity to build things.
 
-With code camps & quick fix coding schools, the industry is saturated with junior engineers.
+For content teams
 
-The role should be changing over the next years to no longer focus on visibility but most likely logical solutions with the information architecture. 
+It is an exciting & innovative climate.
+Financial aspects of content are tumultuous.
+Content teams can extend their audience quickly if their content is well done.
 
 For content teams
 
@@ -112,13 +102,15 @@ Most innovations don't involve a business price tag so businesses are expected t
 This makes the financial aspects of content tumultuous.
 
 
-Slide 8
+// Slide 8
 
 For a younger generation
 
-Younger generations are consuming products beyond they were often designed for. They're hacking the system so to speak. With apps like Snapchat & Messenger - the tech community is often surprised by the use of the product. For those seeking a career in content, it will be innovative & most likely involve currently unthought-of of ways to captivate an audience ... or we can just keep creating memes. 
+Younger generations are using products beyond they were often designed for. For those seeking a career in content: it will be innovative & most likely involve currently unthought-of ways to captivate audiences. It is an exciting time for people in this industry to be innovative.
 
-~Thanks
+Thank you!
+	Jeff Wainwright
+
 
 
 
