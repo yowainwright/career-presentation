@@ -11,7 +11,7 @@ Using data, Front End Engineers render webpages & apps
 
 This presentation will briefly discuss 2 things:
 
-The role of a <a href="http://f2em.com/" target="_blank">front end engineer</a> in a modern content team.
+The role of a front end engineer in a modern content team.
 The role of content in a modern world.
 
 
@@ -21,16 +21,14 @@ How does a Front End Developer's skill apply to media (2016)?
 
 Engineers work with content teams to produce content.
 
-The Product Team is placed in the middle because they negotiate workflow & products for the teams.
-The User Experience Team works on what users do. They work with interactions, analytics &  information architecture.
-The Design Team develops brand identity & art direction.
-The Backend Development Team focuses on creating & rendering data.
-The Frontend Development renders the data.
-Writers create content.
-
-Content Editors insert content.
-
-Not pictured: The Sales/ad & Analytics Team; ThE Sales Team negotiate revenue making deals. The Analytics Team records information.
+- The Product Team is placed in the middle because they negotiate workflow & products for the teams.
+- The User Experience Team works on what users do. They work with interactions, analytics &  information architecture.
+- The Design Team develops brand identity & art direction.
+- The Backend Development Team focuses on creating & rendering data.
+- The Frontend Development renders the data.
+- Writers create content.
+- Content Editors insert content.
+- Not pictured: The Sales/ad & Analytics Team; ThE Sales Team negotiate revenue making deals. The Analytics Team records information.
 
 
 // Slide 3
@@ -52,10 +50,10 @@ Relevancy: Content in a free era
 
 Content is viewed as free
 
-Customers expect great products for free.
-Customers will leave if they're confused.
-Great content to drives brand awareness.
-Customers enjoy marketing but on an increasingly invisible level.
+- Customers expect great products for free.
+- Customers will leave if they're confused.
+- Great content to drives brand awareness.
+- Customers enjoy marketing but on an increasingly invisible level.
 
 Front End Engineers create balance between content & business goals.
 
@@ -64,17 +62,16 @@ Front End Engineers create balance between content & business goals.
 
 Why this is this era exciting for content companies?
 
-Content is more accessible & attainable than ever before
-
-Customers can share & create their own content easily so
-Content companies must create unique & well done content to be relevant. 
+- Content is more accessible & attainable than ever before
+- Customers can share & create their own content easily so
+- Content companies must create unique & well done content to be relevant. 
 
 
 // Slide 6
 
 The Business need
 
-Companies, like DSC & <a href="http://buzzfeed.com" target="_blank">Buzzfeed</a>, can change the game with great content.
+Companies, like DSC & Buzzfeed, can change the game with great content.
 
 
 // Slide 7
@@ -83,23 +80,15 @@ What does this mean for the future?
 
 For front end engineers
 
-Front End Engineers are currently in demand. It is fast-pasted industry. 
-You have to keep learning. 
-You have to opportunity to build things.
+- Front End Engineers are currently in demand. It is fast-pasted industry. 
+- You have to keep learning. 
+- You have to opportunity to build things.
 
 For content teams
 
-It is an exciting & innovative climate.
-Financial aspects of content are tumultuous.
-Content teams can extend their audience quickly if their content is well done.
-
-For content teams
-
-It is an exciting & innovative climate of constantly changing ways to deliver content.
-
-Most innovations don't involve a business price tag so businesses are expected to incorporate these tech innovations by users but don't get an obvious return on investment. 
-
-This makes the financial aspects of content tumultuous.
+- It is an exciting & innovative climate.
+- Financial aspects of content are tumultuous.
+- Content teams can extend their audience quickly if their content is well done.
 
 
 // Slide 8
@@ -109,7 +98,8 @@ For a younger generation
 Younger generations are using products beyond they were often designed for. For those seeking a career in content: it will be innovative & most likely involve currently unthought-of ways to captivate audiences. It is an exciting time for people in this industry to be innovative.
 
 Thank you!
-	Jeff Wainwright
+
+Jeff Wainwright
 
 
 
